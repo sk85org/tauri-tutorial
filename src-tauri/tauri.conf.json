@@ -4,8 +4,8 @@
     "version": "0.1.0"
   },
   "build": {
-    "distDir": "https://scrapbox.io/",
-    "devPath": "https://scrapbox.io/",
+    "distDir": "https://scrapbox.io",
+    "devPath": "https://scrapbox.io",
     "beforeDevCommand": "yarn start",
     "beforeBuildCommand": "yarn build"
   },
